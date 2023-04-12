@@ -15,9 +15,9 @@ log in securely, post content, like other users' posts, and toggle between light
 * Dark Mode : To toggle between light and dark modes 
 
 **To use SocioHolic, you will need to follow these steps:**
-*1. Clone the repository
-*2. Install dependencies
-*3. Start the development server
+* Clone the repository
+* Install dependencies
+* Start the development server
 
 
 After performing abov steps you can access the app in your browser at http://localhost:3000.
